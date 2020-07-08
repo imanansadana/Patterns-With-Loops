@@ -1,2 +1,2 @@
-# patternswithloops
-Different types of patterns using loops and nested loops.
+# Patterns Using Loops
+Different types of patterns made using various loops.
